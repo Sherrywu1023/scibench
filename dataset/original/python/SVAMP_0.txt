@@ -1,0 +1,7 @@
+
+seeds = 36
+seeds_per_bed = 12
+seeds_flower = 58
+beds = seeds/seeds_per_bed
+
+print(beds)

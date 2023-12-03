@@ -1,0 +1,8 @@
+
+snakes = 3
+alligators = 75
+snakes_hiding = 82
+alligators_hiding = 19
+alligators_not_hiding = alligators - alligators_hiding
+
+print(alligators_not_hiding)

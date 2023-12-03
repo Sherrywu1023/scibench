@@ -1,0 +1,7 @@
+
+sugar = 7
+flour = 10
+already_sugar = 4
+sugar_add = sugar - already_sugar
+
+print(sugar_add)

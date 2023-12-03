@@ -33,7 +33,7 @@
     },
     {
         "ID": "chal-1000",
-        "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the grasshopper.",
+        "Body": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 13 inches. The grasshopper jumped 2 inches farther than the frog.",
         "Question": "How far did the frog jump?",
         "Equation": "( 13.0 - 2.0 )",
         "Answer": 11.0,

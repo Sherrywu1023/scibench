@@ -1,0 +1,6 @@
+
+grasshopper = 13
+farther = 2
+frog = grasshopper - farther
+
+print(frog)

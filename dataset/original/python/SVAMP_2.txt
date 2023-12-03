@@ -1,0 +1,7 @@
+
+seeds = 55
+each_bed = 15
+into_flower = 60
+grow = into_flower * (seeds / each_bed)
+
+print(grow)
